@@ -8,6 +8,8 @@
 - **Branch:** Computer Science Engineering  
 - **Date:** May 12, 2025
 - **Preferred Option:** Full Stack 
+- **Preferred Option:** Full Stack 
+- **Graduation Year:"** 2026
 
 
 ## Connect With me
